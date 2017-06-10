@@ -2,6 +2,11 @@
 
 <table>
   <thead>
+    <tr>
+      <th style="text-align: left">&nbsp;</th>
+      <th style="text-align: left">&nbsp;</th>
+      <th style="text-align: left">&nbsp;</th>
+    </tr>
   </thead>
   <tbody>
     {% for post in site.posts %}
