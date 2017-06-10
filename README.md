@@ -1,13 +1,6 @@
 ## Последние эпизоды
 
 <table>
-  <thead>
-    <tr>
-      <th style="text-align: left">Дата</th>
-      <th style="text-align: left">Название</th>
-      <th style="text-align: left">Описание</th>
-    </tr>
-  </thead>
   <tbody>
     {% for post in site.posts %}
     <tr>
