@@ -27,13 +27,7 @@
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
 		<itunes:image href="{{ site.url }}/images/itunes.png" />
-		<itunes:category text="Music" />
-		<itunes:category text="Technology">
-			<itunes:category text="Podcasting" />
-		</itunes:category>
-		<itunes:category text="Society &amp; Culture">
-			<itunes:category text="Philosophy" />
-		</itunes:category>
+		<itunes:category text="Society &amp; Culture"/>
 		<itunes:explicit>yes</itunes:explicit>
 		{% for post in site.posts %}
 			<item>
