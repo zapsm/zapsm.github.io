@@ -1,6 +1,8 @@
 ## Последние эпизоды
 
 <table>
+  <thead>
+  </thead>
   <tbody>
     {% for post in site.posts %}
     <tr>
