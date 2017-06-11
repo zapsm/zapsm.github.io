@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 
-
 title:          ПРОСТРАНСТВО СМЫСЛОВ
 email:          babilonmediagroup@gmail.com
 description:    "Медиапроект Дмитрия Запольского"
@@ -9,3 +8,4 @@ url:            https://zapsm.github.io
 lang:           ru-RU
 author:         ZSM
 copyright:      "&#x2117; &amp; &#xA9; 2017"
+google_analytics: UA-64561587-2
