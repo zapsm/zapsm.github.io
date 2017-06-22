@@ -5,6 +5,7 @@ email:          babilonmediagroup@gmail.com
 description:    "Медиапроект Дмитрия Запольского"
 subtitle:       "Медиапроект Дмитрия Запольского"
 url:            https://zapsm.github.io
+storage:        https://s3.eu-central-1.amazonaws.com/spaceofmeanings
 lang:           ru-RU
 author:         ZSM
 copyright:      "&#x2117; &amp; &#xA9; 2017"
