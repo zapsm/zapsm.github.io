@@ -9,5 +9,5 @@ duration: "01:11:55"
 length: 41499885
 explicit: "no"
 block: "no"
-youtube: "https://www.youtube.com/watch?v=O-YzqsX4wvM"пп
+youtube: "https://www.youtube.com/watch?v=O-YzqsX4wvM"
 ---
